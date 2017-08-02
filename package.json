@@ -1,0 +1,14 @@
+{
+    "name": "com.example.lsb.complex",
+    "version": "1.0.0",
+    "displayName": "Complex LSB",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {}
+    },
+    "dependencies": {
+        "cordova-ios": "latest"
+    }
+}
